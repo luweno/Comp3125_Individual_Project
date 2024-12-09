@@ -1,0 +1,31 @@
+
+General Items: 
+BOOSTER_COOKIE
+GREEN_GIFT
+
+
+
+By Mayor:
+    #TLDR ; every mayor has some items that I imagine are affected, so I will include some of those to get a bigger picture
+
+    Aatrox: REVENANT_FLESH, ENCHANTED_ROTTEN_FLESH, ENCHANTMENT_SMITE_7
+    Diana: GRIFFIN_FEATHER, ENCHANTED_GOLD_BLOCK
+    Paul: KISMET_FEATHER, GIANT_FRAGMENT_LASER
+    Diaz: STOCK_OF_STONKS
+    Cole: GLOSSY_GEMSTONE, FLAWLESS_SAPPHIRE_GEM, TITANIUM_ORE
+    Finnegan: CONDENSED_FERMENTO, ENCHANTMENT_TURBO_WHEAT_1, WHEAT
+    Marina: MAGMA_FISH_SILVER, LAVA_WATER_ORB
+
+Similar Event Items: 
+GREEN_GIFT, JERRY_BOX_PURPLE, PURPLE_CANDY
+
+Generally Important Items:
+FLAWLESS_JASPER_GEM #there are more but this is good for trends (I already have another gemstone too)
+ESSENCE_DRAGON, SOULFLOW, RECOMBOBULATOR_3000
+
+
+These are under : "product_id"
+I care about : the "amount" summed //Since its top 30 orders
+and average of "pricePerUnit" //Again top 30 orders, this will give good idea of actual price, will also help determine when manipulation is in accordance.
+"orders" is not important I do not care how many are selling, rather how much is selling
+"lastUpdated" is super helpful since I will not have to create an additional method to get the time :>

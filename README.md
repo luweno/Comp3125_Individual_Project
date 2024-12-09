@@ -25,3 +25,5 @@ Note: I have added my primary GitHub account; I have not had the chance to merge
 Hello! Here's a quick update on my status: I have constructed basic graphs and a machine learning model, and I have the data.
 This is all being locally developed and will be pushed sometime around 12/9 early in the morning since I have
 to flesh that report out, and I still want to explore some things.
+
+12/8 11:36 I do not know whats up with github, but there is an issue with committing anything at the moment.

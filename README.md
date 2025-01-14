@@ -22,4 +22,4 @@ In the Data folder, there are 2 data sets. One is the original ('Skyblock.csv')
 and the other has the feature engineered points ('test.csv')
 
 ## Concerns:
-If there are any concerns, reach out please!
+If there are any concerns, reach out please! [stovez112@outlook.com](mailto:stovez112@outlook.com)
